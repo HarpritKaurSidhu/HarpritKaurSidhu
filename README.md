@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mental health and wellness application in react native.
+- 🔭 I’m currently working on TD Insurance application.
 
-- 🌱 I’m currently learning iOS development, Android development, cross platform mobile development, and Mobile security.
+- 🌱 I’m currently learning iOS development, Android development, and cross platform mobile development.
 
 - 💬 Ask me about Android Application Development
 
