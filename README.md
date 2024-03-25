@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Android Application Development
 
-- 📫 How to reach me: sidhuharprit8@gmail.com
+<!-- - 📫 How to reach me: sidhuharprit8@gmail.com 
 
-- 📄 If you want to Know about my past experience with programming, Here I am linking my [Resume.docx](https://github.com/HarpritKaurSidhu/HarpritKaurSidhu/files/9587013/Resume.docx)
+- 📄 If you want to Know about my past experience with programming, Here I am linking my [Resume.docx](https://github.com/HarpritKaurSidhu/HarpritKaurSidhu/files/9587013/Resume.docx)-->
 
 
 <h3 align="left">Languages and Tools:</h3>
